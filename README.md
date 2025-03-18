@@ -15,7 +15,9 @@
 | macOS | macOS Ventura 14.4 |
 | 机型 | iMac20,2 |
 
+![8b78b857-e784-43a9-8056-e58a01bd7885](https://github.com/user-attachments/assets/9a577a8b-725f-4cf0-a511-4e6ecc5f920c)
 
+![d879a2db-3e15-433d-9bec-bae4e4928af5](https://github.com/user-attachments/assets/5241aa44-b9fa-4243-bcdc-c1b37e2e6058)
 
 ## 功能可用
 - cpu睿频
